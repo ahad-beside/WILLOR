@@ -1,0 +1,40 @@
+/* CSS Document */
+
+/* DivTable.com */
+.divTable{
+	float:left;
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	float:left;
+	display: table-row;
+}
+.divTableHeading {
+	float:left;
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	float:left;
+	border: 0px;
+	display:table-cell;
+	background-color:ffce00;
+	align-content:center;
+	
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+
+/*  logo and text logo div css */

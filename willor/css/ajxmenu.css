@@ -1,0 +1,33 @@
+@charset "utf-8";
+/*
+ Ajatix Advanced CSS Drop Down Menu
+ Copyright (C) 2009-2016 Ajatix. All rights reserved.
+ http://www.ajatix.com
+ Unregistered copy.
+ Any usage except for the purpose of evaluation is strictly prohibited.
+*/
+.AJXCSSMenudNGQVKA,.AJXCSSMenudNGQVKA_n,.AJXCSSMenudNGQVKA *,.AJXCSSMenudNGQVKA_n * {box-sizing:border-box;}
+.AJXCSSMenudNGQVKA {position:relative;z-index:100;width:224px;line-height:0;}
+.AJXCSSMenudNGQVKA ul {position:relative;display:inline-block;margin:0;padding:1px 1px 1px 1px;list-style-type:none;background:#a8a8ff;}
+*+html .AJXCSSMenudNGQVKA ul {display:inline;}
+.AJXCSSMenudNGQVKA li {float:left;width:222px;margin:0;margin-top:1px;}
+.AJXCSSMenudNGQVKA li:first-child {margin-top:0;}
+.AJXCSSMenudNGQVKA a,.AJXCSSMenudNGQVKA_n a,.AJXCSSMenudNGQVKA h1,.AJXCSSMenudNGQVKA_n h1 {display:block;overflow:hidden;}
+.AJXCSSMenudNGQVKA>ul>li>a {height:auto;white-space:normal;padding:19px 8px 19px 16px;font:bold 12px Verdana,Arial,Helvetica,sans-serif;line-height:12px;text-decoration:none;text-transform:none;text-align:left;border:0;color:#ffffff;transition:background-color 0.3s linear;background:#0000ff;}
+.AJXCSSMenudNGQVKA>ul>li:hover>a,.AJXCSSMenudNGQVKA>ul>li.ajxover>a {background:#0000a0;}
+.AJXCSSMenudNGQVKA h1 {width:222px;height:50px;white-space:nowrap;padding:0 20px 0 20px;margin:0;font:bold 14px Verdana,Arial,Helvetica,sans-serif;line-height:50px;text-decoration:none;text-transform:uppercase;text-align:left;color:#ffffff;background:#0000c1;}
+@media screen and (max-width:480px) {
+.AJXCSSMenudNGQVKA:after,.AJXCSSMenudNGQVKA_n:after {content:'narrow';display:none;}
+.AJXCSSMenudNGQVKA_n {position:relative;width:100%;z-index:100;padding-top:52px;background:#509629;cursor:pointer;}
+.AJXCSSMenudNGQVKA_n:before {position:absolute;top:0;right:10px;content:"\2261";font:bold 52px Arial,Helvetica,sans-serif;line-height:52px;color:#ffffff;z-index:1;}
+.AJXCSSMenudNGQVKA_n>ul:before {position:absolute;top:0;right:51px;content:"Menu";font:bold 26px Arial,Helvetica,sans-serif;line-height:52px;color:#ffffff;z-index:1;cursor:pointer;}
+.AJXCSSMenudNGQVKA_n ul {margin:0;list-style-type:none;background:#96ba7e;}
+.AJXCSSMenudNGQVKA_n>ul {height:0;overflow:hidden;}
+.AJXCSSMenudNGQVKA_n>ul.ajxover,.AJXCSSMenudNGQVKA_n li ul{height:auto;padding:1px 1px 1px 1px;cursor:default;}
+.AJXCSSMenudNGQVKA_n li {float:none;margin:1px 0 0 0;display:none;}
+.AJXCSSMenudNGQVKA_n li:first-child {margin-top:0px;}
+.AJXCSSMenudNGQVKA_n .ajxover li {display:block;}
+.AJXCSSMenudNGQVKA_n li a {height:auto;white-space:normal;padding:19px 8px 19px 16px;font:12px Verdana,Arial,Helvetica,sans-serif;line-height:12px;text-decoration:none;text-transform:none;text-align:left;border:0;color:#ffffff;transition:background-color 0.3s linear;background:#0000ff;}
+.AJXCSSMenudNGQVKA_n li:hover>a,.AJXCSSMenudNGQVKA_n li.ajxover>a {font-weight:bold;background:#0000a0;}
+.AJXCSSMenudNGQVKA_n h1 {width:auto;height:auto;white-space:normal;padding:7px 8px 7px 8px;margin:0;font:bold 12px Verdana,Arial,Helvetica,sans-serif;line-height:12px;text-decoration:none;text-transform:uppercase;text-align:center;color:#ffffff;background:#0000a0 url(ajxmenu_files/sub-heading.gif) center center;}
+}

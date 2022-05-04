@@ -1,0 +1,5 @@
+[16-Jun-2019 16:59:16 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/willortrust/public_html/willor/login.php on line 35
+[17-Jun-2019 03:52:40 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/willortrust/public_html/willor/login.php on line 35
+[17-Jun-2019 05:29:49 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/willortrust/public_html/willor/login.php on line 39
+[17-Jun-2019 06:13:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/willortrust/public_html/willor/login.php on line 39
+[17-Jun-2019 06:14:35 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/willortrust/public_html/willor/login.php on line 39

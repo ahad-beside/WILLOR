@@ -1,0 +1,95 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="willortrust.com" resolutions="1x" timestamp="1559006968817">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="342135701" ref="privacy-policy:index:about-wt:our-services:contact-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="15224870" ref="privacy-policy:index:about-wt:our-services:contact-us"/>
+    <file name="privacy-policy.css" crc="3860653212" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="4202979902" ref="privacy-policy"/>
+    <file name="iefonts_privacy-policy.css" crc="3824530138" ref="privacy-policy"/>
+    <file name="index.css" crc="3965857267" ref="index"/>
+    <file name="nomq_index.css" crc="313986745" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="about-wt.css" crc="361738039" ref="about-wt"/>
+    <file name="nomq_about-wt.css" crc="3838945029" ref="about-wt"/>
+    <file name="iefonts_about-wt.css" crc="3824530138" ref="about-wt"/>
+    <file name="our-services.css" crc="4075461272" ref="our-services"/>
+    <file name="nomq_our-services.css" crc="383050282" ref="our-services"/>
+    <file name="iefonts_our-services.css" crc="3824530138" ref="our-services"/>
+    <file name="contact-us.css" crc="492803969" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="4046813638" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="3824530138" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="webpro.js" crc="3848665353" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="require.js" crc="244322403" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="form_check.php" crc="158155501" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact-us"/>
+    <file name="form_process.php" crc="4078697226" ref="contact-us"/>
+    <file name="form-u122264.php" crc="4001186725" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-willor2.png" crc="354643733" seo="true" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="retail-banks-vs-investment-banks.jpg" crc="213738331" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="3196.jpg" crc="4172506822" seo="true" ref="index"/>
+    <file name="4740.jpg" crc="4237535975" seo="true" ref="index"/>
+    <file name="o6b7e90.jpg" crc="4221403316" seo="true" ref="index"/>
+    <file name="o6phiu0.jpg" crc="226974872" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="wealth-management.png" crc="4133262399" seo="true" ref="index"/>
+    <file name="invest.png" crc="357685688" seo="true" ref="index"/>
+    <file name="estate.png" crc="3969179386" seo="true" ref="index"/>
+    <file name="bankingp.png" crc="3971522159" seo="true" ref="index"/>
+    <file name="accenture-delivering-future-banking-u116369-fr.jpg" crc="4270596139" ref="index"/>
+    <file name="banking1.jpg" crc="4162129722" ref="index"/>
+    <file name="797.jpg" crc="111917586" ref="index"/>
+    <file name="wt.png" crc="78404431" seo="true" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="accenture-delivering-future-banking-u116369-fr2.jpg" crc="4022422897" ref="index"/>
+    <file name="banking1-u116377-fr.jpg" crc="196334253" ref="index"/>
+    <file name="wt-crop-u123473.png" crc="255292305" ref="index:about-wt:our-services:contact-us:privacy-policy"/>
+    <file name="closebtt.jpg" crc="386008518" ref="index"/>
+    <file name="images.jpg" crc="4277551171" ref="index"/>
+    <file name="banking1-u116377-fr2.jpg" crc="49322135" ref="index"/>
+    <file name="accenture-delivering-future-banking-u116369-fr3.jpg" crc="3965521709" ref="index"/>
+    <file name="o6phiu0-u121441-fr.jpg" crc="3840730604" ref="about-wt"/>
+    <file name="oh1dzj0.jpg" crc="427068924" ref="about-wt"/>
+    <file name="o6ln3v0.jpg" crc="4110104024" ref="about-wt"/>
+    <file name="o6phiu0-u121441-fr2.jpg" crc="4026034742" ref="about-wt"/>
+    <file name="o6phiu0-u121441-fr3.jpg" crc="210667917" ref="about-wt"/>
+    <file name="o6phiu0-u121441-fr4.jpg" crc="3865573730" ref="about-wt"/>
+    <file name="o6phiu0-u121441-fr5.jpg" crc="3912231448" ref="about-wt"/>
+    <file name="o6phiu0-u121441-fr6.jpg" crc="34448405" ref="about-wt"/>
+    <file name="436014-pea2pz-994.jpg" crc="3795322516" ref="our-services"/>
+    <file name="accenture-delivering-future-banking.jpg" crc="3924083722" ref="our-services"/>
+    <file name="436014-pea2pz-994-u121596-fr.jpg" crc="4200472949" ref="our-services"/>
+    <file name="436014-pea2pz-994-u121596-fr2.jpg" crc="125692079" ref="our-services"/>
+    <file name="436014-pea2pz-994-u121596-fr3.jpg" crc="4135890253" ref="our-services"/>
+    <file name="436014-pea2pz-994-u121596-fr4.jpg" crc="111321107" ref="our-services"/>
+    <file name="4740-u122258-fr.jpg" crc="3799668540" ref="contact-us"/>
+    <file name="4740-u122258-fr2.jpg" crc="349210417" ref="contact-us"/>
+    <file name="4740-u122258-fr3.jpg" crc="468246514" ref="contact-us"/>
+    <file name="4740-u122258-fr4.jpg" crc="144317594" ref="contact-us"/>
+    <file name="4740-u122258-fr5.jpg" crc="4091889816" ref="contact-us"/>
+    <file name="banking.jpg" crc="3949536473" ref="privacy-policy"/>
+    <file name="banking-u123373-fr.jpg" crc="3761308166" ref="privacy-policy"/>
+    <file name="banking-u123373-fr2.jpg" crc="359260040" ref="privacy-policy"/>
+    <file name="banking-u123373-fr3.jpg" crc="4181272779" ref="privacy-policy"/>
+  </folder>
+  <file name="index.html" crc="78007409" seo="true" mt="1559006863251" redirect="true"/>
+  <file name="about-wt.html" crc="3837179093" seo="true" mt="1559006863251" redirect="true"/>
+  <file name="our-services.html" crc="3826849724" seo="true" mt="1559006863251" redirect="true"/>
+  <file name="contact-us.html" crc="59212292" seo="true" mt="1559006886667" redirect="true"/>
+  <file name="privacy-policy.html" crc="3920302229" seo="true" mt="1559006863251" redirect="true"/>
+</manifest>
